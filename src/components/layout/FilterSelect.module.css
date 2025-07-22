@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+  padding: 10px;
+  border-bottom: #cccbcb solid 1px;
+  border-left: #cccbcb solid 1px;
+}
+
+.container label {
+  font-size: large;
+  font-weight: bold;
+  color: #161038;
+}
+
+.container select {
+  border: #161038 .5px solid;
+  height: 30px;
+  padding: 0 5px;
+}
+
+.container select:focus {
+  outline: #161038 1px solid;
+}

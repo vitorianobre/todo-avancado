@@ -1,0 +1,18 @@
+.btn {
+  width: 30px;
+  height: 30px;
+  border: #161038 1px solid;
+  cursor: pointer;
+}
+
+.btn svg {
+  color: #161038;
+}
+
+.btn:hover {
+  background-color: #161038;
+}
+
+.btn:hover svg {
+  color: #f0f0f0;
+}

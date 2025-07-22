@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px;
+  border-bottom: #cccbcb solid 1px;
+  font-weight: bold;
+}
+
+.btnContainer {
+  display: flex;
+  gap: 5px;
+}
+
+.done {
+  background-color: #161038;
+  color: #f0f0f0;
+}
+
+.done p {
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+.to_do {
+  color: #161038;
+  
+}

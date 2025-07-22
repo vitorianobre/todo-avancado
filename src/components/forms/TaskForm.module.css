@@ -1,0 +1,8 @@
+.form_container {
+  display: flex;
+  gap: 3px;
+  align-items: flex-end;
+  padding: 10px;
+  border-bottom: #cccbcb solid 1px;
+  color: #161038;
+}
